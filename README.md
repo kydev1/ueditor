@@ -5,5 +5,5 @@ maven使用方式
     <dependency>
       <groupId>cn.meddb</groupId>
       <artifactId>ueditor</artifactId>
-      <version>20180110</version>
+      <version>20180110-jdk7</version>
     </dependency>
