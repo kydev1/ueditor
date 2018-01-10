@@ -11,7 +11,7 @@
     <groupId>cn.meddb</groupId>
     <artifactId>ueditor</artifactId>
     <name>ueditor</name>
-    <version>20180110</version>
+    <version>20180110-jdk7</version>
     <url>http://ueditor.baidu.com</url>
     <description>百度ueditor代码上传到maven仓库</description>
     <properties>
@@ -74,8 +74,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>3.5</version>
                 <configuration>
-                    <source>1.8</source>
-                    <target>1.8</target>
+                    <source>1.7</source>
+                    <target>1.7</target>
                 </configuration>
             </plugin>
             <plugin>
